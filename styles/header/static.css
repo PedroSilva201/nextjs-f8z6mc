@@ -1,0 +1,12 @@
+.notificação {
+  preenchimento: 10px;
+  alinhamento de texto: centro;
+}
+
+.notification-fixed-bottom {
+  posição: fixa;
+  inferior: 0;
+  esquerda: 0;
+  índice z: 999;
+  largura: 100%;
+}https://docs.nuvemshop.com.br/help/cookie-notification
